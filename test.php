@@ -14,6 +14,8 @@ session_start();
             require_once ('/var/www/soapclient/SforcePartnerClient.php');
             require_once ('/var/www/soapclient/SforceHeaderOptions.php');
 
+		// I added some changes
+
 		$username = "elena_grow@mail.ru";
 		$password = "GY7uk197784";
 		$securityToken = "tQX7v96KJmYdPT1lbPLV7b9u";
